@@ -1,0 +1,21 @@
+title: demo
+type: software
+version: 0.1.0
+identifiers:
+- type: doi
+  value: 10.5281/zenodo.123456789
+repository-code: https://github.com/PlasmaPy/demo
+contact:
+- email: team@plasmapy.org
+  name: The PlasmaPy Team
+license: BSD-3-Clause
+cff-version: 1.2.0
+
+authors:
+
+- given-names: Nicholas
+  family-names: Murphy
+  email: namurphy@cfa.harvard.edu
+  affiliation: Center for Astrophysics | Harvard & Smithsonian
+  orcid: https://orcid.org/0000-0001-6628-8033
+  alias: namurphy
